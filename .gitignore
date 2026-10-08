@@ -22,3 +22,6 @@ keystore.properties
 
 # Kept in repo for reproducible builds
 !usque.ref
+
+*.apk
+*.zip
